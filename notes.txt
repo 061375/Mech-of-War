@@ -7,3 +7,31 @@ power lines
 buildings
 
 spotlight at camera
+
+man (alien) needs longer limbs
+
+girl needs to be reaching with other arm
+
+add a dog sniffing the man (alien)
+
+brighter spotlight
+
+spotlight cone (maybe)
+
+fix missing ground
+
+make ground (dirt) smaller to look better ( or larger texture )
+
+*******
+
+farthest mech should be spottlighting approaching people ( solidiers )
+
+1. on rubble
+
+2. others approaching guns drawn
+
+3. leader arm back as if to saw "hold your fire or hold up"
+
+- Chance for peace???
+
+- Friend or foe?
